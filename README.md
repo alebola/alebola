@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hola, soy Alejandro Bolaños
 
-<!--
-**alebola/alebola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Graduado en Ciencia e Ingeniería de Datos (ULPGC)  
+🤖 Apasionado por la Inteligencia Artificial, Machine Learning y el desarrollo de soluciones de datos con impacto real.   
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías principales
+- Lenguajes: Python, R, Java, SQL, Dart
+- Frameworks: PyTorch, NumPy, scikit-learn, Flask
+- Bases de datos: MySQL, MongoDB
+- Otros: Git, Docker, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Proyectos destacados
+- **Predicción de fintas y lanzamientos en balonmano** → Deep Learning con Transformers aplicado a vídeo.  
+- **InclusIA** → App multiplataforma con Flutter + Firebase para análisis de sesgos de género.  
+
+## 📫 Contacto
+- LinkedIn: https://linkedin.com/in/alejandro-bolaños-garcía
+- Email: alebolanosgarcia@gmail.com
+
