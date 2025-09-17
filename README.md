@@ -11,7 +11,7 @@
 
 ## 🌟 Proyectos destacados
 - **Predicción de fintas y lanzamientos en balonmano** → Deep Learning con Transformers aplicado a vídeo.  
-- **InclusIA** → App multiplataforma con Flutter + Firebase para análisis de sesgos de género.  
+- **InclusIA** → App multiplataforma con Flutter + Firebase para corrección de sesgos de género en textos.
 
 ## 📫 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandro-bolaños-garcía)
