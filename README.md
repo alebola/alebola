@@ -10,7 +10,7 @@
 - Otros: Git, Docker, Linux
 
 ## 🌟 Proyectos destacados
-- **Predicción de fintas y lanzamientos en balonmano** → Deep Learning con Transformers aplicado a vídeo.  
+- **Predicción de fintas y lanzamientos en penaltis de balonmano** → Deep Learning con Transformers aplicado a vídeo.  
 - **InclusIA** → App multiplataforma con Flutter + Firebase para corrección de sesgos de género en textos.
 
 ## 📫 Contacto
