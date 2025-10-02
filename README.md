@@ -5,8 +5,8 @@
 
 ## 🚀 Core Tech
 - Languages: Python, R, Java, SQL, Dart
-- Frameworks/Libraries: PyTorch, NumPy, scikit-learn, Flask
-- Databases: MySQL, MongoDB
+- Frameworks/Libraries: PyTorch, NumPy, scikit-learn, Flask, Streamlit
+- Databases: MySQL, MongoDB, Pinecone
 - Other: Git, Docker, Linux
 
 ## 📫 Contact
